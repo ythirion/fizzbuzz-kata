@@ -22,6 +22,9 @@ Write a function that returns for a given number from 1 to 100 this given number
    * int limit : 100
    * int fizz : 3
    * int buzz : 5
+* Extend your program
+   * Multiples of 7 are “Whizz”
+   * Multiples of 11 are “Bang”
 * Create a Higher Order Function (fizzBuzz function takes an action function in args)
 * Add a voice output
 * Write it in an unknown language (still by using TDD)
